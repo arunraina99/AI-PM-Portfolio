@@ -1,0 +1,20 @@
+# OS files
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
