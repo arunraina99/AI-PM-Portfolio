@@ -12,13 +12,10 @@ This repository is my AI Product Manager (AI PM) portfolio. It showcases project
 - Product artifacts: PRDs, user journeys, success metrics, roadmaps, and A/B test designs.
 
 **Featured folder**
-- `Week-2 Learning/ChatGPT Finetuning Playground (gemini-2.5-flash-lite) (1).html` — an experiment/artifact from fine-tuning/playground work.
+- `Week-2 Learning/ChatGPT Finetuning Playground  — an experiment/artifact from fine-tuning/playground work.
 
 **Skills & Topics**
 - AI product strategy, model evaluation, prompt engineering, fine-tuning experiments, data labeling strategy, metrics and instrumentation, cross-functional leadership.
-
-**How to view**
-- Browse the repository in GitHub after pushing, or open the HTML/MD files locally.
 
 **Contact**
 - Email: arunkumargollapali@gmail.com
