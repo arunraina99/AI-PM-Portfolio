@@ -1,25 +1,36 @@
 # Arun Kumar — AI Product Manager Portfolio
 
-This repository is my AI Product Manager (AI PM) portfolio. It showcases projects, case studies, playbooks, and experiments that demonstrate product thinking, AI strategy, and execution for AI-powered products.
+Building and documenting product work at the intersection of AI, user experience, and business outcomes.
 
-**About Me**
-- Name: Arun Kumar
-- Focus: Product management for AI/ML products — discovery, specs, evaluation, and go-to-market.
+Overview
+- This repository is an AI Product Manager (AI PM) portfolio containing project write-ups, artifacts, and experiments that demonstrate product thinking for AI-powered features and products.
 
-**What you'll find here**
-- Project write-ups and case studies (design decisions, metrics, outcomes).
-- Notebooks or demos used for model exploration and fine-tuning experiments.
-- Product artifacts: PRDs, user journeys, success metrics, roadmaps, and A/B test designs.
+About
+- **Name:** Arun Kumar
+- **Focus:** Product management for AI/ML products — discovery, specification, evaluation, and go-to-market.
 
-**Featured folder**
-- `Week-2 Learning/ChatGPT Finetuning Playground  — an experiment/artifact from fine-tuning/playground work.
+What you'll find here
+- Project case studies (context, problem, solution, metrics, learnings).
+- Product artifacts: PRDs, user journeys, success metrics, and roadmaps.
+- Experiments & demos: notebooks, prompt-engineering notes, fine-tuning/playground artifacts.
 
-**Skills & Topics**
-- AI product strategy, model evaluation, prompt engineering, fine-tuning experiments, data labeling strategy, metrics and instrumentation, cross-functional leadership.
+Featured
+- `Week-1 Learning/` — design prompts, imagery, and ideation artifacts.
+- `Week-2 Learning/ChatGPT Finetuning Playground.html` — fine-tuning/playground experiments and notes.
 
-**Contact**
-- Email: arunkumargollapali@gmail.com
-- Contact: 77801252154
+Skills & Topics
+- AI product strategy, model evaluation, prompt engineering, fine-tuning experiments, data labeling strategy, instrumentation & metrics, stakeholder alignment.
 
-**License**
-- Content in this repository is available for review. Add a license file if you want to publish under a specific license.
+How to use this repo
+- Browse folders on GitHub or clone locally to explore artifacts and HTML demos.
+- To run any notebooks or demos, open files locally with the appropriate viewer (browser for HTML, Jupyter for notebooks).
+
+Contact
+- **Email:** arunkumargollapali@gmail.com
+- **Phone:** 77801252154
+
+Contribute / License
+- If you want to contribute or reuse content, open an issue or PR. Add a `LICENSE` file to publish under a specific license.
+
+Notes
+- This portfolio is a living document — new projects and experiments will be added over time.
