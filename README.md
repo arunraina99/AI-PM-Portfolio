@@ -2,7 +2,7 @@
 
 This repository is my AI Product Manager (AI PM) portfolio. It showcases projects, case studies, playbooks, and experiments that demonstrate product thinking, AI strategy, and execution for AI-powered products.
 
-**About**
+**About Me**
 - Name: Arun Kumar
 - Focus: Product management for AI/ML products — discovery, specs, evaluation, and go-to-market.
 
@@ -21,7 +21,8 @@ This repository is my AI Product Manager (AI PM) portfolio. It showcases project
 - Browse the repository in GitHub after pushing, or open the HTML/MD files locally.
 
 **Contact**
-- Email: arun@example.com (replace with your preferred contact)
+- Email: arunkumargollapali@gmail.com
+- Contact: 77801252154
 
 **License**
 - Content in this repository is available for review. Add a license file if you want to publish under a specific license.
